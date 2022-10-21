@@ -1,1 +1,2 @@
-# Hello i'm MinhHN
+### Hi there :wave:
+*I'm MinhHN*
