@@ -35,9 +35,9 @@
 <div>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/sqlserver-00000F?style=for-the-badge&logo=sqlserver&logoColor=white"> 
-    <img src="https://img.shields.io/badge/postgresql-00000F?style=for-the-badge&logo=postgresql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/MySQL-CC6699?style=for-the-badge&logo=mysql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/sql_server-1572B6?style=for-the-badge&logo=sql_server&logoColor=white"> 
+    <img src="https://img.shields.io/badge/postgresql-1572f2?style=for-the-badge&logo=postgresql&logoColor=white"> 
     
 </div>
 
