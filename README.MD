@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-1572f2?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </div>
 
-### Framework Frontend
+### Frontend
 
 <div>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
